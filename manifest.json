@@ -1,0 +1,24 @@
+{
+  "background_color": "#ffffff",
+  "description": "Motrex. Motrex Biography You can learn a lot about Motrex, you can see my projects, my works, my music library and you can visit my courses, play my music or inquire about anything, you can ask for your own beat or help with anything, we hope you enjoy with us.",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Motrex cv",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "Motrex cv",
+  "start_url": "/",
+  "theme_color": "#353353",
+  "icons": [
+    {
+      "src": "images/512x512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    },
+    {
+      "src": "images/322x322.png",
+      "type": "image/png",
+      "sizes": "322x322"
+    }
+  ]
+}
